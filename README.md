@@ -26,7 +26,7 @@
 
 ---
 
-### 2. Health Care App (Flutter + Laravel + Flutter Web)
+### 2. Health Care App (Flutter + Django + Flutter Web)
 📌 A healthcare management system.  
 - Mobile app built with **Flutter**  
 - Backend with **Django**  
