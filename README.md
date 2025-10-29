@@ -65,8 +65,8 @@
 * Features: user authentication, stories, chat system, posts, likes, comments, and notifications
 * Deployed on **DigitalOcean** with Nginx configuration
 
-🔗 [GitHub Repo - Mobile](https://https://github.com/mhmdnd10/vibelink_frontend)
-🔗 [GitHub Repo - Backend](https://https://github.com/mhmdnd10/vibelink_backend)
+🔗 [GitHub Repo - Mobile](https://github.com/mhmdnd10/vibelink_frontend)
+🔗 [GitHub Repo - Backend](https://github.com/mhmdnd10/vibelink_backend)
 
 ---
 
